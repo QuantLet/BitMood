@@ -1,6 +1,6 @@
-Name of QuantLet : LDA
+Name of QuantLet : 'LDA'
 
-Published in : BitMood
+Published in : 'BitMood'
 
 Description : 'Latent Dirichlet Analysis for Facebook posts related to Bitcoin.'
 
