@@ -1,6 +1,6 @@
-Name of QuantLet : BitMood
+Name of QuantLet : 'BitMood'
 
-Published in : IDA
+Published in : 'IDA'
 
 Description : 'This study employs AI-based emotion detection and sentiment analysis to uncover significant correlations between Facebook users’ emotions and Bitcoin market trends.'
 
