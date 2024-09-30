@@ -1,6 +1,6 @@
-Name of QuantLet : Dynamic LDA
+Name of QuantLet : 'Dynamic LDA'
 
-Published in : BitMood
+Published in : 'BitMood'0
 
 Description : 'Dynamic LDA to extract the main topics of Facebook posts related to Bitcoin.'
 
