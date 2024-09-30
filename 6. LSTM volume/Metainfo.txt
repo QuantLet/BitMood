@@ -1,6 +1,6 @@
-Name of QuantLet : LSTM volumne
+Name of QuantLet : 'LSTM volumne'
 
-Published in : BitMood
+Published in : 'BitMood'
 
 Description : 'Various models to predict BTC trading volume.'
 
