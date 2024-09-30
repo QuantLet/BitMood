@@ -1,6 +1,6 @@
-Name of QuantLet : Features engineering
+Name of QuantLet : 'Features engineering'
 
-Published in : BitMood
+Published in : 'BitMood'
 
 Description : 'Performs feature engineering for variables related to sentiment of Facebook posts.'
 
