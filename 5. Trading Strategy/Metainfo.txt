@@ -1,6 +1,6 @@
-Name of QuantLet : Trading Strategy
+Name of QuantLet : 'Trading Strategy'
 
-Published in : BitMood
+Published in : 'BitMood'
 
 Description : 'Trading strategy for Bitcoin, using different sentiment-based features.'
 
