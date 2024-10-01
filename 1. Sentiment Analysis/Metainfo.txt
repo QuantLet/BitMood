@@ -1,6 +1,6 @@
-Name of QuantLet : 'Sentiment Analysis'
+Name of QuantLet : Sentiment Analysis
 
-Published in : 'BitMood'
+Published in : BitMood
 
 Description : 'Performs Sentiment Analysis of Facebook posts related to Bitcoin.'
 
